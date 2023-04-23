@@ -131,5 +131,3 @@ function start()
 end
 
 start()
-
---game:GetService("Players").AmandXen.Backpack.M9.GunStates
